@@ -1,7 +1,15 @@
 body {
   font-family: "Times New Roman", Times, serif;
+  background-image: url("http://www.rycorsoftware.com/SFimages/default-source/leaf-textbook-management-images/leaf-banner_tinypng.png?sfvrsn=2");
+  background-repeat: no-repeat;
+  background-size: 1700px 845px;
   background-color: #551A8B;
-  color: red;
+  display: block;
+  color: blanchedalmond;
+}
+
+img:hover{
+  opacity:.5;
 }
 .center{
  	margin: auto;
@@ -113,7 +121,10 @@ h3{
 }
 h2{
   text-align: center;
-
+}
+h1{
+  text-align: center;
+  color:white;
 }
 
 .left{
